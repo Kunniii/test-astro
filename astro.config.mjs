@@ -7,5 +7,6 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
 	site: 'https://kunniii.github.io/',
 	base: '/test-astro',
+	output: 'static',
 	integrations: [mdx(), sitemap()],
 });
