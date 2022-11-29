@@ -29,6 +29,8 @@ Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sap
 
 ![This is a placeholder image description](/placeholder-social.jpg)
 
+![This is a placeholder image description](/placeholder-social.jpg)
+
 ## Blockquotes
 
 The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
