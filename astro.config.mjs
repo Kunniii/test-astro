@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://kunniii.github.io/test-astro/',
+	site: '/test-astro/',
 	integrations: [mdx(), sitemap()],
 });
